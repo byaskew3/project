@@ -54,6 +54,7 @@ class Garage():
                     break
                 else:
                     print("Invalid answer, please try again!")
+                print('testing')
 
 
 
